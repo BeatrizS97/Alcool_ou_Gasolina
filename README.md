@@ -1,11 +1,33 @@
-# Sample Snack app
+# 🚗 Álcool ou Gasolina? 📊
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Este aplicativo foi o quarto aplicativo desenvolvido no Expo Snack como parte da disciplina de Desenvolvimento Mobile da FATEC PG - Tarde. O objetivo deste projeto foi criar um aplicativo simples e funcional com o intuito de ajudar os usuários a decidir se é mais vantajoso abastecer com **álcool** ou **gasolina**, com base nos preços informados.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## 📌 Funcionalidades
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+* Permite inserir os preços do álcool e da gasolina.  
+* Calcula automaticamente qual combustível é mais vantajoso.  
+* Exibe o resultado de forma clara e objetiva.  
+* Layout simples e responsivo.  
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+---
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## 🛠️ Tecnologias utilizadas
+
+- **React Native**
+- **Expo**
+- **JavaScript**
+
+---
+
+## 📷 Captura de tela
+
+<img src="./assets/image.png" width="200">
+
+---
+
+## 🎉 Conclusão
+Este projeto foi uma excelente oportunidade para aprender os conceitos básicos do desenvolvimento mobile e aprimorar minhas habilidades em React Native. Estou animado para continuar evoluindo este app e explorar novas funcionalidades!
+
+🚀 Desenvolvido com paixão pelo aprendizado!
+
+
